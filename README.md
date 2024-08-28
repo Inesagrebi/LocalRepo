@@ -1,2 +1,0 @@
-# LocalRepo
-first essay
